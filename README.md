@@ -90,3 +90,16 @@ Example: /questions/questions/2
 
 🧪 Testing
 You can test the endpoints using Postman or curl.
+
+
+💼 Use Cases
+
+Ideal for AI/ML and Backend internship or job demo
+
+Base for real-time document retrieval systems
+
+Educational demo of async FastAPI APIs
+
+📜 License
+
+MIT License
