@@ -3,6 +3,7 @@
 This project is an async FastAPI backend for a Document Q&A system. Users can upload documents, ask questions about them, and get simulated LLM-based answers. It showcases modern backend design, modular structure, async database operations, and background task simulation.
 
 🚀 Features
+
 ✅ Upload documents (title + content)
 
 💬 Ask questions about uploaded documents
@@ -14,6 +15,7 @@ This project is an async FastAPI backend for a Document Q&A system. Users can up
 🧪 Modular routing and clean architecture
 
 🛠️ Tech Stack
+
 FastAPI
 
 PostgreSQL
@@ -28,6 +30,7 @@ Python 3.10+
 
 
 🧰 Setup Instructions
+
 1. Clone the Repository
 
 git clone https://github.com/Nilesh5168/Document_Q-A_Service.git
