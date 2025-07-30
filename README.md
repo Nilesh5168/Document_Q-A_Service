@@ -52,11 +52,11 @@ DATABASE_URL = "postgresql+asyncpg://username:password@localhost/documentqa"
 4. Initialize the Database
 Run the table creation script:
 
-python -m APP.init_db
+python -m APP.init_db  (#change APP with your app name)
 
 ▶️ Running the App
 
-uvicorn APP.main:app --reload
+uvicorn APP.main:app --reload  (#change APP with your app name)
 
 Your API will be live at: http://127.0.0.1:8000
 
